@@ -1,6 +1,8 @@
+import "./actions.css";
+
 const Actions = () => {
     return (
-        <div>
+        <div className="actions-block">
             This will be a block with actions!
         </div>
     );

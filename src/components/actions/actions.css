@@ -1,0 +1,4 @@
+.actions-block {
+    display: flex;
+    flex-direction: row;
+}
